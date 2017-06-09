@@ -1,5 +1,6 @@
 # hello-world
-1st repository
+First Repository!
+
 Hi,
 
 I am Kom and this is my first commit.
